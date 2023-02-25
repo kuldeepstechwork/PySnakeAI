@@ -5,10 +5,10 @@ PySnakeAI is a project that trains an AI agent to play the classic Snake game us
 
 
 #Project Structure
-The project contains the following files:
+The project contains the following files:\
 
-game.py: This file contains the implementation of the Snake game using Pygame.
-agent.py: This file contains the implementation of the AI agent and the training loop.
-model.py: This file contains the implementation of the neural network used by the AI agent to learn how to play the game.
-helper.py: This file contains helper functions for plotting and visualization.
+game.py: This file contains the implementation of the Snake game using Pygame.\
+agent.py: This file contains the implementation of the AI agent and the training loop.\
+model.py: This file contains the implementation of the neural network used by the AI agent to learn how to play the game.\
+helper.py: This file contains helper functions for plotting and visualization.\
 
